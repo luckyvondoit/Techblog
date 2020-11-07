@@ -1,15 +1,15 @@
 ## Person
 
-| 作者 | 博客 | Github | 知乎专栏 |
-| --- | --- | --- | --- |
-| 李忠 | [limboy](http://limboy.me/) | [lzyy](https://github.com/lzyy)
-| bang | [bang](http://blog.cnbang.net) | [bang590](https://github.com/bang590) |
-| 王巍 | [OneV's Den](http://onevcat.com) | [onevcat](https://github.com/onevcat) | 
-| 唐巧 | [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NTIyNTUyMQ==&scene=124#wechat_redirect) | [tangqiaoboy](https://github.com/tangqiaoboy) |
+| 作者 | ①博客 | ②Github | ③知乎 | ④掘金 | ⑤简书 |
+| --- | --- | --- | --- | --- | --- |
+| 李忠 | [①limboy](http://limboy.me/) | [②lzyy](https://github.com/lzyy)
+| bang | [①bang](http://blog.cnbang.net) | [②bang590](https://github.com/bang590) |
+| 王巍 | [①OneV's Den](http://onevcat.com) | [②onevcat](https://github.com/onevcat) | 
+| 唐巧 | [①公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NTIyNTUyMQ==&scene=124#wechat_redirect) | [②tangqiaoboy](https://github.com/tangqiaoboy) |
+| 池建强 | [①MacTalk](http://macshuo.com)| | ③MacTalk|
 
 
-
-池建强的博客： 池建强，70后程序员，Blogger。98年毕业，先后就职于洪恩软件、RocketSofeware和用友软件工程公司（后更名为瑞友科技），现任瑞友科技IT应用研究院副院长。该博客最初每天发送一条Mac技巧，不过目前已经形成了一种技术和人文结合的风格，时而随笔，时而技术。
+池建强的博客： ，70后程序员，Blogger。98年毕业，先后就职于洪恩软件、RocketSofeware和用友软件工程公司（后更名为瑞友科技），现任瑞友科技IT应用研究院副院长。该博客最初每天发送一条Mac技巧，不过目前已经形成了一种技术和人文结合的风格，时而随笔，时而技术。
 http://macshuo.com/
 
 许小帅的博客：许小帅目前任职于腾讯，他还是iOS Feed站点的负责人。博客中对支付宝钱包插件分析的文章，引起了支付宝开发团队的反思，大家可以去感受一下。
