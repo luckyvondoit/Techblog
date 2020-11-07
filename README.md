@@ -6,7 +6,7 @@
 | bang | [1.bang](http://blog.cnbang.net) | [2.bang590](https://github.com/bang590) |
 | 王巍 | [1.OneV's Den](http://onevcat.com) | [2.onevcat](https://github.com/onevcat) | 
 | 唐巧 | [1.公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NTIyNTUyMQ==&scene=124#wechat_redirect) | [2.tangqiaoboy](https://github.com/tangqiaoboy) |
-| 池建强 | [1.MacTalk](http://macshuo.com)| | [2.MacTalk](https://zhuanlan.zhihu.com/mactalk)|
+| 池建强 | [1.MacTalk](http://macshuo.com)| | [3.MacTalk](https://zhuanlan.zhihu.com/mactalk)|
 | ibireme | [1.Garan no Dou](https://blog.ibireme.com) | [2.ibireme](https://github.com/ibireme) |
 | sunny | [1.sunnyxx](http://blog.sunnyxx.com) | [2.forkingdog](https://github.com/forkingdog) |
 | 谭灏 | [1.tanhao](http://tanhao.me) |
