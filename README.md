@@ -41,14 +41,18 @@
 - [故胤道长](https://www.jianshu.com/u/8d5b91490ca5)
 - [iOS程序犭袁](https://www.jianshu.com/u/96a14318a4de)
 
-## 公众号
-
-- [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NTIyNTUyMQ==&scene=124#wechat_redirect)
-
 ## 博客园
 
 - [biosli](http://cnblogs.com/biosli) 
 - [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/) 
+
+## 知乎
+
+- [MrPeak杂货铺](https://zhuanlan.zhihu.com/mrpeak)
+
+## 公众号
+
+- [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NTIyNTUyMQ==&scene=124#wechat_redirect)
 
 ## Github
 
@@ -57,7 +61,36 @@
 - [FengJian's Blog](http://fengjian0106.github.io/) 
 - [唐巧搜集](https://github.com/tangqiaoboy/iOSBlogCN) 
 
-## Team
+# Team
+
+## 博客
+
 - [美团技术团队](https://tech.meituan.com)
+- [阿里技术](https://102.alibaba.com)
+- [淘系前端团队](https://fed.taobao.org)
+- [腾讯社交用户体验设计(ISUX)](http://isux.tencent.com)
+- [京东设计中心](https://jdc.jd.com/)
+- [百度搜索用户体验中心](http://ued.baidu.com)
+- [腾讯CDC](https://cdc.tencent.com)
+- [腾讯ISUX](http://isux.tencent.com)
+- [腾讯MXD](https://mxd.tencent.com/)
+- [Tencent TG ideas](https://tgideas.qq.com/)
+- [Tencent AlloyTeam](http://www.alloyteam.com)
+- [支付宝官方Blog](http://blog.alipay.com)
+
+## 知乎
+
+- [即刻技术团队](https://www.zhihu.com/column/jikeapp)
+- [美团点评技术团队](https://www.zhihu.com/column/techpower)
+- [DDFE 技术周刊](https://www.zhihu.com/column/ddfe-weekly)
+- [UC国际技术](https://www.zhihu.com/column/ucit2018)
+- [东岳网络工作室团队](https://www.zhihu.com/column/dongyue)
+- [腾讯技术](https://www.zhihu.com/column/tencent-TEG)
+- [腾讯技术](https://www.zhihu.com/column/tencentcoder)
+- [携程技术](https://www.zhihu.com/column/ctriptech)
+- [美团技术博客](https://www.zhihu.com/column/meituantech)
+- [即时通讯技术分享](https://www.zhihu.com/column/helloim)
+- [IT技术](https://www.zhihu.com/column/c_1158052135106088960)
+
 
 
