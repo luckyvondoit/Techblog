@@ -26,7 +26,8 @@
 - [老谭笔记](http://www.tanhao.me/) 
 - [coderyi](http://coderyi.com/)
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html) 
-- [halfrost](https://halfrost.com/archives/) 
+- [halfrost](https://halfrost.com/archives/)
+- [kyson](https://kyson.cn) 
 
 
 ## 掘金
@@ -91,6 +92,7 @@
 - [美团技术博客](https://www.zhihu.com/column/meituantech)
 - [即时通讯技术分享](https://www.zhihu.com/column/helloim)
 - [IT技术](https://www.zhihu.com/column/c_1158052135106088960)
+- [腾讯Bugly](https://www.zhihu.com/org/teng-xun-bugly)
 
 
 
