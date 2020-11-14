@@ -28,6 +28,7 @@
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html) 
 - [halfrost](https://halfrost.com/archives/)
 - [kyson](https://kyson.cn) 
+- [唐巧](http://blog.devtang.com)
 
 
 ## 掘金
