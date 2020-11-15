@@ -101,6 +101,6 @@
 
 ## 公众号
 
--[字节跳动技术团队](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MzYzMjE0MQ==&scene=124#wechat_redirect)
+- [字节跳动技术团队](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MzYzMjE0MQ==&scene=124#wechat_redirect)
 
 
