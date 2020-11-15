@@ -95,5 +95,12 @@
 - [IT技术](https://www.zhihu.com/column/c_1158052135106088960)
 - [腾讯Bugly](https://www.zhihu.com/org/teng-xun-bugly)
 
+## 简书
+
+- [字节跳动技术团队](https://juejin.im/user/1838039172387262)
+
+## 公众号
+
+-[字节跳动技术团队](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MzYzMjE0MQ==&scene=124#wechat_redirect)
 
 
