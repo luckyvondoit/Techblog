@@ -94,6 +94,7 @@
 - [即时通讯技术分享](https://www.zhihu.com/column/helloim)
 - [IT技术](https://www.zhihu.com/column/c_1158052135106088960)
 - [腾讯Bugly](https://www.zhihu.com/org/teng-xun-bugly)
+- [力扣（LeetCode）](https://www.zhihu.com/org/ling-kou-leetcode)
 
 ## 简书
 
